@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio_workspace_utf8\\dialogdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "E:\\studio_workspace_utf8\\dialogdemo\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace_utf8\\dialogdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\studio_workspace_utf8\\dialogdemo\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace_utf8\\dialogdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studio_workspace_utf8\\dialogdemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
